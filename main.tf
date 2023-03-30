@@ -8,7 +8,11 @@ terraform {
 }
 
 provider "snowflake" {
-  role  = "SYSADMIN"
+  account  = "bk68410"
+  region = "ca-central-1.aws"
+  username = "elina-tf-snow"
+  private_key_path = "/home/ubuntu/.ssh/snowflake_tf_snow_key.p8"
+  role   = "SYSADMIN"
 }
 
 resource "snowflake_database" "db" {
