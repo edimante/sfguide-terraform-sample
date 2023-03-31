@@ -15,3 +15,6 @@ In attempt to learn about the Snowflake and [Terraform](https://www.terraform.io
 - extract the service account (SVC) Private Key using **terraform output** and **jq**:
 
 `terraform output -json | jq -r '.snowflake_svc_private_key.value'`
+
+- this
+- is not all .. WIP
