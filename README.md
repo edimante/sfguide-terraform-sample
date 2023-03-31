@@ -10,4 +10,6 @@ Gotchas:
 
 `export SNOWFLAKE_REGION="<cloud_region_id>.<cloud>"`
 
-next thing
+- extract the service account (SVC) Private Key using **Terraform output** and **jq**:
+
+`terraform output -json | jq -r '.snowflake_svc_private_key.value'`
