@@ -1,6 +1,6 @@
 # Terraforming Snowflake
 
-Trying to follow the steps in (this guide by Snowflake) [https://quickstarts.snowflake.com/guide/terraforming_snowflake/index.html]
+Trying to follow the steps in [this] (https://quickstarts.snowflake.com/guide/terraforming_snowflake/index.html) guide by Snowflake
 
 Gotchas:
 
