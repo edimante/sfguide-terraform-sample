@@ -1,6 +1,6 @@
 # Terraforming Snowflake
 
-In attempt to learn about Snowflake and terraform, I've followed the steps in [this](https://quickstarts.snowflake.com/guide/terraforming_snowflake/index.html) guide by Snowflake.
+In attempt to learn about the Snowflake and [Terraform](https://www.terraform.io/), I've followed the steps in [this](https://quickstarts.snowflake.com/guide/terraforming_snowflake/index.html) guide by Snowflake.
 
 ### Gotchas: ###
 
